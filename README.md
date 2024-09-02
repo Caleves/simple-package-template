@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Carlos
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
